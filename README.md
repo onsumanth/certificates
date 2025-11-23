@@ -1,18 +1,29 @@
 📜 Certificates Portfolio
 
-This repository contains verified certificates showcasing my practical experience in Data Analytics, Power BI, and Business Intelligence.
+This repository contains verified certificates showcasing my practical experience in Data Analytics, Power BI, Business Intelligence, and AI.
+
+🎓 IIIT Hyderabad – ViswamAI AI Internship 2025
+
+Completed a 4-week Summer of AI Internship conducted by Viswam.AI, in collaboration with IIIT Hyderabad, Meta, and Swecha.
+
+Gained hands-on exposure to foundational AI concepts, problem-solving workflows, and industry-aligned learning modules.
+
+Certificate Link:
+https://github.com/onsumanth/certificates/blob/main/IIIT_Hyd_ViswamAI_AI_2025.pdf
 
 🎓 Deloitte – Data Analytics Virtual Job Simulation (Forage Program)
 
 Completed Deloitte’s Data Analytics simulation via Forage, applying real-world consulting and analytical problem-solving skills.
 
-Developed proficiency in data cleaning, visualization, and business insights.
+Developed proficiency in data cleaning, visualization, and generating business insights.
 Certificate Link:
 https://github.com/onsumanth/certificates/blob/main/Deloitte%20%E2%80%93%20Data%20Analytics%20Virtual%20Job%20Simulation%20(Forage%20Program).pdf
 
-🎓 Amazon Web Services (AWS) – Data Analytics Assessment (LearnTube, PEAKS by Google)
+🎓 Amazon Web Services (AWS) – Data Analytics Assessment
 
-Completed a Google-recognized PEAKS assessment powered by AWS validating real-world data analytics skills.
+(LearnTube, PEAKS by Google)
+
+Completed a Google-recognized PEAKS assessment powered by AWS, validating real-world Data Analytics skills.
 
 Demonstrated strong proficiency in SQL, Excel, and data-driven decision-making.
 Certificate Link:
@@ -20,7 +31,7 @@ https://github.com/onsumanth/certificates/blob/main/Amazon%20Web%20Services%20(A
 
 🎓 Hands-On Data Visualization with Microsoft Power BI — Infosys Springboard
 
-Gained practical experience creating interactive dashboards and KPIs using Power BI.
+Gained practical experience building interactive dashboards and KPIs using Power BI.
 
 Learned data modeling, DAX, and storytelling through real business datasets.
 Certificate Link:
@@ -35,6 +46,8 @@ Power BI and Data Visualization
 Business Intelligence and Reporting
 
 Data Cleaning and Interpretation
+
+AI & Analytical Thinking
 
 🔗 Connect with Me
 
