@@ -2,6 +2,16 @@
 
 This repository contains verified certificates showcasing my practical experience in Data Analytics, Power BI, Business Intelligence, and AI.
 
+🎓 HackerRank – SQL (Advanced) Certification
+
+Successfully cleared the HackerRank SQL (Advanced) certification, demonstrating strong knowledge of query optimization, indexing, data modeling, window functions, and advanced SQL concepts.
+
+📄 Certificate (PDF):  
+https://github.com/onsumanth/certificates/blob/main/HackerRank_SQL_Advanced_2026.pdf
+
+🔗 Verified Credential:  
+https://www.hackerrank.com/certificates/f232d6b6e717
+
 🎓 IIIT Hyderabad – ViswamAI AI Internship 2025
 
 Completed a 4-week Summer of AI Internship conducted by Viswam.AI, in collaboration with IIIT Hyderabad, Meta, and Swecha.
