@@ -1,4 +1,17 @@
 📜 Certificates Portfolio
+🎓 AiVariant – Data Analyst Internship Certificate
+
+Successfully completed Data Analyst Internship 
+at AiVariant through ExcelR Data Analytics 
+Training Program.
+
+Certificate Code: AIV/25-26/Q2/05/18735
+Duration: 30th January 2026 — 2nd May 2026
+Issued: 3rd May 2026
+
+Certificate Link: https://github.com/onsumanth/
+certificates/blob/main/
+AiVariant_Internship_Certificate_2026.pdf
 
 This repository contains verified certificates showcasing my practical experience in Data Analytics, Power BI, Business Intelligence, and AI.
 
